@@ -1,0 +1,86 @@
+---
+---
+@import url("https://fonts.googleapis.com/earlyaccess/notosansjp.css");
+@import "minima";
+
+/* Custom theme colors (Sass variables for calculations + CSS variables for runtime usage) */
+$brand-bg: #0b172a;
+$brand-surface: #111d33;
+$brand-text: #e8edf5;
+$brand-accent: #ffba08;
+
+:root {
+  --brand-bg: #{$brand-bg};
+  --brand-surface: #{$brand-surface};
+  --brand-text: #{$brand-text};
+  --brand-accent: #{$brand-accent};
+}
+
+body {
+  background: $brand-bg;
+  color: $brand-text;
+  font-family: "Noto Sans JP", "Helvetica Neue", Arial, sans-serif;
+}
+
+a {
+  color: $brand-accent;
+}
+
+p {
+  line-height: 2rem;
+  margin-bottom: 3rem;
+}
+ul {
+  line-height: 2rem;
+  margin-bottom: 3rem;
+}
+
+a:hover {
+  color: lighten($brand-accent, 10%);
+}
+
+.site-header {
+  background: rgba(0, 0, 0, 0.35);
+  border: none;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+.post-title{
+  font-size: 2.4rem;
+}
+
+.site-header img{
+  width: 180px;
+}
+
+.site-nav .page-link {
+  padding: 0.5rem 0.75rem;
+  color: $brand-accent;
+}
+
+.site-nav .page-link:hover {
+  color: lighten($brand-accent, 10%);
+}
+
+.site-title,
+.site-title:visited {
+  color: $brand-accent;
+}
+
+.menu-icon > svg path {
+  fill: $brand-accent;
+}
+
+.page-content {
+  background: $brand-surface;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.site-title-logo {
+  height: 40px;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+}

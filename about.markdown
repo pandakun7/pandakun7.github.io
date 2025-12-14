@@ -1,18 +1,42 @@
 ---
 layout: page
-title: About
+title: 私について / About Pandakun
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+こんにちは、私は **Pandakun / ぱんだくん** です。MITメディアラボが開発したプログラミング言語「Scratch (スクラッチ)」で作品作りをしています。Scratchネームは Pandakun、2016年4月に登録しました。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Pandakun on Scratch  
+<https://scratch.mit.edu/users/pandakun/>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Scratch をはじめたきっかけ
+甥っ子がゲーム製作者になりたいと聞いて、教えるために Scratch を学んだのがきっかけです。学んでいるうちに自分がハマってしまいました。
 
+## 今後作りたいもの
+- ピンボール
+- レースゲーム
+- アドベンチャーゲーム
+- サッカーゲーム
+- シューティングゲーム
+- プラットフォームゲーム
+- 全方位スクロールアクションゲーム
+- サバイバルゲーム
+- クッキークリッカーゲーム
 
-[jekyll-organization]: https://github.com/jekyll
+## Pandakun の野望
+- 「Tennis」「Pinball」など一般的なキーワード検索で上位に表示されるプロジェクトを作る
+- 月2本を目安にプロジェクトを公開する
+
+## プロジェクト制作で心がけていること
+- 緑の旗から10秒以内に面白さに到達する
+- 想定プレイ時間を設定（いつも約1分を想定）
+- 「もう一度やりたい」と思わせる
+- リミックスされやすいプロジェクトにする
+- 閲覧数やフォロワー数は気にしない
+- プログラムは短くする
+- 死を扱う演出は丁寧に、よく考える
+- どの国の人でも遊べるようにする
+- 画面に常時表示する情報は少なくする（ゲージや残機表示などは極力省く）
+
+## サイトについて
+さくらインターネットのレンタルサーバとドメインを利用し、無料SSL「Let’s Encrypt」に対応しています（更新も自動）。CMS は WordPress を使用し、テンプレートは自作しましたが面倒だったので、これから立ち上げる場合は配布テンプレートをおすすめします。
