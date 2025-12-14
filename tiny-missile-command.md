@@ -4,12 +4,17 @@ title: タイニーミサイルコマンド / Tiny Missile Command
 permalink: /tiny-missile-command/
 ---
 
-![Tiny Missile Command スクリーンショット](/assets/images/noimage.png)
+![Tiny Missile Command スクリーンショット](/assets/images/tiny-missile-command.png)
 
 1980 年の Atari「Missile Command」を Scratch でミニ版にした作品です。都市に向かうミサイルを迎撃します。
 
 ## 制作話
-ミサイルの軌跡をペンで描くと、1 本消すと全部消えてしまう課題があり、一面が終わるまで軌跡を残す仕様にしました。各ミサイルごとに管理する方法も考えましたが、当時は Scratch 歴が浅く、そのまま公開しました。
+ミサイルコマンドはミサイルの軌跡が美しいゲームですなのですが、ミサイルの軌跡をScratchで表現することが難しく、苦労しました。軌跡をペンで書いたのですが、ミサイルが消失したときに同時に軌跡を消すと、他のミサイルの軌跡も消えてしまいます。これは「消す」ブロックは、ペンで書いたものを全て消してしまうからです。100%PENにして、個々のミサイルの軌跡の状態をリストで管理すれば可能かもしれませんが、当時はScrach歴も浅かったので露にも思わず。
+
+![Tiny Missile Command ミサイルの軌跡](/assets/images/tiny-missile-command2.png)
+ミサイルの軌跡は重要
+
+そこで、一つのステージが終わるまでは軌跡を消さないことにしました。プレイしてみて思ったより気にならなかったので、そのまま公開してしまいました。
 
 ## ゲームを遊ぶ
 下記のリンクから Scratch サイトで遊んでください。  
@@ -24,7 +29,9 @@ permalink: /tiny-missile-command/
 しばらくお待ちください。
 
 ## スクリーンショット
-![Tiny Missile Command スクリーンショット1](/assets/images/noimage.png)
+![Tiny Missile Command スクリーンショット1](/assets/images/tiny-missile-command3.png)
+
+![Tiny Missile Command スクリーンショット2](/assets/images/tiny-missile-command4.png)
 
 ## ムービー
 しばらくお待ちください。
@@ -34,4 +41,4 @@ Missile Command (Atari, 1980)
 <http://my.ign.com/atari/missile-command>
 
 ## 作品公開日
-しばらくお待ちください。
+2016年7月1日
