@@ -4,7 +4,7 @@ title: 紙飛行機 / Paper Plane
 permalink: /paper-plane/
 ---
 
-![Paper Plane スクリーンショット](/assets/images/noimage.png)
+![Paper Plane スクリーンショット](/assets/images/peper-plane.svg)
 
 紙飛行機を操り、どこまで遠く飛ばせるかを競うシンプルなゲームです。Flappy Bird ライクな操作で、抽象的なグラフィックと GarageBand アレンジの音楽で雰囲気を重視しています。
 
@@ -21,7 +21,9 @@ permalink: /paper-plane/
 しばらくお待ちください。
 
 ## スクリーンショット
-![Paper Plane スクリーンショット1](/assets/images/noimage.png)
+![Paper Plane スクリーンショット1](/assets/images/paper-plane2.png)
+
+![Paper Plane スクリーンショット1](/assets/images/paper-plane3.png)
 
 ## ムービー
 しばらくお待ちください。
@@ -31,4 +33,4 @@ Flappy Bird
 <https://en.wikipedia.org/wiki/Flappy_Bird>
 
 ## 作品公開日
-しばらくお待ちください。
+2016年7月29日
