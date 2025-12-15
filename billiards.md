@@ -4,7 +4,7 @@ title: ビリヤード / Billiards
 permalink: /billiards/
 ---
 
-![billiards スクリーンショット](/assets/images/noimage.png)
+![billiards スクリーンショット](/assets/images/billiards.svg)
 
 少ない手数で全てのボールを落とすゲームです。どのボールから落としてもOK。手玉を落としてもペナルティはありません。
 
@@ -34,4 +34,4 @@ SE: 効果音ラボ様の素材を使用しています。
 しばらくお待ちください。
 
 ## 作品公開日
-しばらくお待ちください。
+2017年1月26日

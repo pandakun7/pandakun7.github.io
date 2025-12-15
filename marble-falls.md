@@ -4,7 +4,7 @@ title: マーブルフォール / Marble Falls
 permalink: /marble-falls/
 ---
 
-![marble-falls スクリーンショット](/assets/images/noimage.png)
+![marble-falls スクリーンショット](/assets/images/marble-falls.svg)
 
 空から降ってくるボールを画面外へはじき出すゲームです。100個はじき出せば成功。クリアタイムを競うことができます。
 

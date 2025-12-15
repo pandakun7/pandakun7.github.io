@@ -4,7 +4,7 @@ title: ドライブ / Drivin’
 permalink: /drivin/
 ---
 
-![Drivin スクリーンショット](/assets/images/noimage.png)
+![Drivin スクリーンショット](/assets/images/drivin.svg)
 
 SEGA の「OUTRUN」を意識して、美しい景観を眺めながらドライブするゲームを目指しました（内容はお察しください）。
 
