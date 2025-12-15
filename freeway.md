@@ -4,7 +4,7 @@ title: 高速道路 / Freeway
 permalink: /freeway/
 ---
 
-![freeway スクリーンショット](/assets/images/noimage.png)
+![freeway スクリーンショット](/assets/images/freeway.svg)
 
 あなたは自動運転車のAIです。高速ドライブから運転者を守って下さい。爆走する車を操り、他の車を避け続けるゲームです。
 
@@ -30,4 +30,4 @@ permalink: /freeway/
 しばらくお待ちください。
 
 ## 作品公開日
-しばらくお待ちください。
+2017年5月2日
