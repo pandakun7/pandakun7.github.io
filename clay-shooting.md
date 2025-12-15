@@ -13,7 +13,7 @@ permalink: /clay-shooting/
 
 ## ゲームで遊ぶ
 下記のリンクから Scratch サイトで遊んでください。  
-<a href="https://scratch.mit.edu/projects/147489705/" target="_blank" rel="noopener">ゲームプレイ（Scratchが開きます）</a>
+<a class="btn btn-primary" href="https://scratch.mit.edu/projects/147489705/" target="_blank" rel="noopener">ゲームプレイ（Scratchが開きます）</a>
 
 ## 使用したツール
 - プログラム: Scratch 2.0

@@ -8,6 +8,7 @@ $brand-bg: #0b172a;
 $brand-surface: #111d33;
 $brand-text: #e8edf5;
 $brand-accent: #ffba08;
+$btn-color:#ffba08;
 
 :root {
   --brand-bg: #{$brand-bg};
@@ -96,4 +97,58 @@ a:hover {
   padding: 1.5rem 0;
   color: $brand-text;
   font-size: 0.9rem;
+}
+
+/**
+* Button
+*/
+.btn{
+	display: inline-block;
+	margin: 1rem 0 0;
+	font-size: inherit;
+	line-height: 1.42;
+	padding: 0.6em 1.6em;
+	font-weight: normal;
+	border-width: 2px;
+	border-style: solid;
+	background: transparent;
+	border-radius: 1.46em;
+	cursor: pointer;
+	user-select: none;
+	vertical-align: bottom;
+	position: relative;
+	overflow: hidden;
+	transition: background-color 0.3s, color 0.3s;
+}
+.btn:hover:after {
+	transform: scaleX(1);
+	opacity: 1;
+	transition: transform 0.3s, opacity 0.3s;
+}
+.btn:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: -1;
+	border-radius: 1.46em;
+	transform: scaleX(0.7);
+	opacity: 0;
+	transition: transform 0.8s, opacity 0.3s;
+}
+.btn-primary,
+.btn:visited {
+	color: $btn-color;
+	border-color:$btn-color;
+}
+.btn-primary:hover {
+	color: #E6EAEF;
+	background-color:$btn-color;
+  text-decoration: none;
+}
+.btn-primary:after {
+	background-color:$btn-color;
 }

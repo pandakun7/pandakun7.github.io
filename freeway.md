@@ -12,8 +12,8 @@ permalink: /freeway/
 簡単になりすぎず、難しくもなりすぎず、適度にやられるというちょうどいいバランスになったと思います。難しくするのは簡単で、適車を反応できない速度にしてしまえばいいのですが、人間が反応できるギリギリのバランスで作れたのはよかったと思います。自機のX軸は固定で、周りの車や背景を動かしていますが、違和感なく作れたものよかったです。もう少し要素を増やして続編を作りたいと思っています。
 
 ## ゲームで遊ぶ
-下記のリンクから Scratch サイトで遊んでください。  
-<a href="https://scratch.mit.edu/projects/158381397/" target="_blank" rel="noopener">ゲームプレイ（Scratchが開きます）</a>
+下記のリンクから Scratch サイトで遊んでください。
+<a class ="btn btn-primary" href="https://scratch.mit.edu/projects/158381397/" target="_blank" rel="noopener">ゲームプレイ（Scratchが開きます）</a>
 
 ## 使用したツール
 - プログラム: Scratch 2.0

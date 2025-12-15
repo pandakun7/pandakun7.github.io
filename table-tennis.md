@@ -13,7 +13,7 @@ Scratch の検索で「Tennis」「Pinball」といった一般語で上位に�
 
 ## ゲームで遊ぶ
 下記のリンクから Scratch サイトで遊んでください。  
-<a href="https://scratch.mit.edu/projects/130501394/" target="_blank" rel="noopener">ゲームプレイ（Scratchが開きます）</a>
+<a class="btn btn-primary" href="https://scratch.mit.edu/projects/130501394/" target="_blank" rel="noopener">ゲームプレイ（Scratchが開きます）</a>
 
 ## 使用したツール
 - プログラム: Scratch 2.0

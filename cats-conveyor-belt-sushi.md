@@ -12,8 +12,8 @@ permalink: /cats-conveyor-belt-sushi/
 キャットが狂ったように寿司を作る動きが面白かったので、その動作を活かし、作った寿司を寿司桶で拾い上げて回転ベルトに戻すという謎のゲームになりました。時間切れになると、キャットが拾った寿司を寿司桶に詰めて見せてくれます。
 
 ## ゲームで遊ぶ
-下記のリンクから Scratch サイトで遊んでください。 
-<a href="https://scratch.mit.edu/projects/127975129/" target="_blank" rel="noopener">ゲームプレイ（Scratchが開きます）</a>
+下記のリンクから Scratch サイトで遊んでください。  
+<a class="btn btn-primary" href="https://scratch.mit.edu/projects/127975129/" target="_blank" rel="noopener">ゲームプレイ（Scratchが開きます）</a>
 
 ## 使用したツール
 - プログラム: Scratch 2.0
