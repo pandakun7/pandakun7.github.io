@@ -35,4 +35,4 @@ permalink: /tiny-circus/
 <https://www.arcade-museum.com/game_detail.php?letter=C&game_id=7340>
 
 ## 作品公開日
-しばらくお待ちください。
+2016年11月23日

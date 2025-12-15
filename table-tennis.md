@@ -34,4 +34,4 @@ Scratch の検索で「Tennis」「Pinball」といった一般語で上位に�
 <http://www.mobygames.com/game/ping-pong>
 
 ## 作品公開日
-しばらくお待ちください。
+2016年11月14日

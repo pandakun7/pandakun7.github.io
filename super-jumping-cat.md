@@ -31,4 +31,4 @@ permalink: /super-jumping-cat/
 [sjc-material.zip](https://pandakun.net/wp/wp-content/uploads/2018/05/sjc-material.zip)
 
 ## 作品公開日
-しばらくお待ちください。
+2016年9月7日
