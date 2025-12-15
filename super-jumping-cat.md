@@ -4,7 +4,7 @@ title: スーパージャンピングキャット / Super Jumping Cat
 permalink: /super-jumping-cat/
 ---
 
-![Super Jumping Cat スクリーンショット](/assets/images/noimage.png)
+![Super Jumping Cat スクリーンショット](/assets/images/super-jumping-cat.png)
 
 娘に「ジョナサン」と呼ばれているプロジェクト（ロゴが似ているらしい）。アドベンチャータイム公式アプリ「どこまでもジャンプ」に触発され、左右交互にジャンプするキャットで障害物を避け、どこまで登れるか競うゲームです。慎重にすると障害物が増えるので素早いジャンプが必要です。
 

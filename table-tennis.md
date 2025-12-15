@@ -4,7 +4,7 @@ title: 卓球 / Table Tennis
 permalink: /table-tennis/
 ---
 
-![Table Tennis スクリーンショット](/assets/images/noimage.png)
+![Table Tennis スクリーンショット](/assets/images/table-tennis.svg)
 
 Scratch の検索で「Tennis」「Pinball」といった一般語で上位に出したいという野望から作った卓球ゲームです。
 

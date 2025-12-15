@@ -4,7 +4,7 @@ title: タイニーサーカス / TINY CIRCUS
 permalink: /tiny-circus/
 ---
 
-![TINY CIRCUS スクリーンショット](/assets/images/noimage.png)
+![TINY CIRCUS スクリーンショット](/assets/images/tiny-circus.svg)
 
 日本科学未来館の企画展「GAME ON ～ゲームってなんでおもしろい？～」で Exidy 社の「Circus」をプレイし、長く遊べるように Scratch で再現した作品です。
 

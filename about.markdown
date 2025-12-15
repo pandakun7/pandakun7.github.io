@@ -4,6 +4,8 @@ title: 私について / About Pandakun
 permalink: /about/
 ---
 
+<img src="/assets/images/pandakun.svg" alt="About pandakun icon" class="about-icon" />
+
 こんにちは、私は **Pandakun / ぱんだくん** です。MITメディアラボが開発したプログラミング言語「Scratch (スクラッチ)」で作品作りをしています。Scratchネームは Pandakun、2016年4月に登録しました。
 
 Pandakun on Scratch  

@@ -4,7 +4,7 @@ title: ビーチバレー / Beach Volleyball
 permalink: /beach-volleyball/
 ---
 
-![Beach Volleyball スクリーンショット](/assets/images/noimage.png)
+![Beach Volleyball スクリーンショット](/assets/images/beach-volleyball.svg)
 
 ビーチバレーですが、水着のお姉さんやマッチョな男子は登場しません。バレーボールを作ろうとして「選手をたくさん作るのが面倒だから 1 対 1 のビーチバレーでいいや」と安易に着手。ゲームセットも無し、スパイクも無しで出したところ、リミックスでスパイク対応した作品のほうが人気になってしまった、というハンカチ案件です。
 
@@ -27,4 +27,4 @@ permalink: /beach-volleyball/
 しばらくお待ちください。
 
 ## 作品公開日
-しばらくお待ちください。
+2016年8月26日

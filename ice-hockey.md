@@ -4,7 +4,7 @@ title: アイスホッケー / Ice Hockey
 permalink: /ice-hockey/
 ---
 
-![Ice Hockey スクリーンショット](/assets/images/noimage.png)
+![Ice Hockey スクリーンショット](/assets/images/ice-hockey.svg)
 
 Pandakun 初の横スクロールプロジェクト。ボールの X 軸を固定し、背景とキャラクターを動かして横スクロールを表現しています。
 
