@@ -9,16 +9,21 @@ layout: home
 
 ## Scratchプロジェクト集
 
+- [道場マスター / Dojo Master](/dojo-master/)
+- [空戦 / Airplane Aerobatics](/airplane-aerobatics/)
+- [タクシー / TAXI](/taxi/)
+- [スターファイター / STAR FIGHTER](/star-fighter/)
+- [アイスゴルフ / ICE GOLF](/ice-golf/)
 - [高速道路 / Freeway](/freeway/)
 - [マーブルフォール / Marble Falls](/marble-falls/)
 - [クレー射撃 / Clay shooting](/clay-shooting/)
 - [ビリヤード / Billiards](/billiards/)
 - [ドライブ / Drivin’](/drivin/)
-- [ねこの回転寿司 / Cat's Conveyor belt sushi](/cats-conveyor-belt-sushi/)
 - [コイン落とし / Coin Dozer](/coin-dozer/)
 - [アーチェリー / ARCHERY](/archery/)
 - [タイニーサーカス / TINY CIRCUS](/tiny-circus/)
 - [卓球 / Table Tennis](/table-tennis/)
+- [ねこの回転寿司 / Cat's Conveyor belt sushi](/cats-conveyor-belt-sushi/)
 - [アイスホッケー / Ice Hockey](/ice-hockey/)
 - [スーパージャンピングキャット / Super Jumping Cat](/super-jumping-cat/)
 - [ビーチバレー / Beach Volleyball](/beach-volleyball/)
