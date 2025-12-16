@@ -9,6 +9,8 @@ layout: home
 
 ## Scratchプロジェクト集
 
+- [ジャングルリバー / Jungle River](/jungle-river/)
+- [フライングエース / Flying Ace](/flying-ace/)
 - [道場マスター / Dojo Master](/dojo-master/)
 - [空戦 / Airplane Aerobatics](/airplane-aerobatics/)
 - [タクシー / TAXI](/taxi/)
@@ -17,8 +19,8 @@ layout: home
 - [高速道路 / Freeway](/freeway/)
 - [マーブルフォール / Marble Falls](/marble-falls/)
 - [クレー射撃 / Clay shooting](/clay-shooting/)
-- [ビリヤード / Billiards](/billiards/)
 - [ドライブ / Drivin’](/drivin/)
+- [ビリヤード / Billiards](/billiards/)
 - [コイン落とし / Coin Dozer](/coin-dozer/)
 - [アーチェリー / ARCHERY](/archery/)
 - [タイニーサーカス / TINY CIRCUS](/tiny-circus/)
