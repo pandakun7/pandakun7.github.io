@@ -17,14 +17,8 @@ permalink: /beach-volleyball/
 - 画像作成: Adobe Illustrator
 - サウンド作成: Bfxr
 
-## 素材ダウンロード
-しばらくお待ちください。
-
 ## スクリーンショット
 ![Beach Volleyball スクリーンショット1](/assets/images/noimage.png)
-
-## ムービー
-しばらくお待ちください。
 
 ## 作品公開日
 2016年8月26日

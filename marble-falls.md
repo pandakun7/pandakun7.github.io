@@ -24,14 +24,8 @@ permalink: /marble-falls/
 効果音: 無料効果音で遊ぼう！様の素材を使用しています。  
 <http://taira-komori.jpn.org/>
 
-## 素材ダウンロード
-しばらくお待ちください。
-
 ## スクリーンショット
 ![marble-falls スクリーンショット1](/assets/images/noimage.png)
-
-## ムービー
-しばらくお待ちください。
 
 ## 作品公開日
 2017年4月7日

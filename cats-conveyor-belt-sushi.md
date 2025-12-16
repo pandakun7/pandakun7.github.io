@@ -20,14 +20,8 @@ permalink: /cats-conveyor-belt-sushi/
 - 画像作成: Adobe Illustrator
 - サウンド作成: Bfxr
 
-## 素材ダウンロード
-しばらくお待ちください。
-
 ## スクリーンショット
 ![Cat's Conveyor belt sushi スクリーンショット1](/assets/images/noimage.png)
-
-## ムービー
-しばらくお待ちください。
 
 ## 作品公開日
 2016年10月29日

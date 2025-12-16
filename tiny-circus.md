@@ -21,14 +21,8 @@ permalink: /tiny-circus/
 - 画像作成: Adobe Illustrator
 - サウンド作成: Bfxr
 
-## 素材ダウンロード
-しばらくお待ちください。
-
 ## スクリーンショット
 ![TINY CIRCUS スクリーンショット1](/assets/images/noimage.png)
-
-## ムービー
-しばらくお待ちください。
 
 ## 参考にしたゲーム
 『Circus』 by Exidy in 1977.  

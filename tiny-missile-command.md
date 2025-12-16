@@ -25,16 +25,10 @@ permalink: /tiny-missile-command/
 - 画像作成: Adobe Illustrator
 - サウンド作成: Bfxr
 
-## 素材ダウンロード
-しばらくお待ちください。
-
 ## スクリーンショット
 ![Tiny Missile Command スクリーンショット1](/assets/images/tiny-missile-command3.png)
 
 ![Tiny Missile Command スクリーンショット2](/assets/images/tiny-missile-command4.png)
-
-## ムービー
-しばらくお待ちください。
 
 ## 参考にしたゲーム
 Missile Command (Atari, 1980)  

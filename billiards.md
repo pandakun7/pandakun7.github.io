@@ -24,14 +24,8 @@ permalink: /billiards/
 SE: 効果音ラボ様の素材を使用しています。  
 <http://soundeffect-lab.info/>
 
-## 素材ダウンロード
-しばらくお待ちください。
-
 ## スクリーンショット
 ![billiards スクリーンショット1](/assets/images/noimage.png)
-
-## ムービー
-しばらくお待ちください。
 
 ## 作品公開日
 2017年1月26日

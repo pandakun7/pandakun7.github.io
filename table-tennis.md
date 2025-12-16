@@ -20,14 +20,8 @@ Scratch の検索で「Tennis」「Pinball」といった一般語で上位に�
 - 画像作成: Adobe Illustrator
 - サウンド作成: Bfxr
 
-## 素材ダウンロード
-しばらくお待ちください。
-
 ## スクリーンショット
 ![Table Tennis スクリーンショット1](/assets/images/noimage.png)
-
-## ムービー
-しばらくお待ちください。
 
 ## 参考にしたゲーム
 コナミのピンポン / Konami's Ping Pong  

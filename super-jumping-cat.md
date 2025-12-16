@@ -18,17 +18,10 @@ permalink: /super-jumping-cat/
 ## スクリーンショット
 ![Super Jumping Cat スクリーンショット1](/assets/images/noimage.png)
 
-## ムービー
-しばらくお待ちください。
-
 ## 使用したツール
 - プログラム: Scratch 2.0
 - 画像作成: Adobe Illustrator
 - サウンド作成: Bfxr
-
-## 素材ダウンロード
-作成した SVG 素材をまとめています。  
-[sjc-material.zip](https://pandakun.net/wp/wp-content/uploads/2018/05/sjc-material.zip)
 
 ## 作品公開日
 2016年9月7日

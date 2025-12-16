@@ -17,16 +17,10 @@ permalink: /paper-plane/
 - 画像作成: Adobe Illustrator
 - サウンド作成: GarageBand
 
-## 素材ダウンロード
-しばらくお待ちください。
-
 ## スクリーンショット
 ![Paper Plane スクリーンショット1](/assets/images/paper-plane2.png)
 
 ![Paper Plane スクリーンショット1](/assets/images/paper-plane3.png)
-
-## ムービー
-しばらくお待ちください。
 
 ## 参考にしたゲーム
 Flappy Bird  
