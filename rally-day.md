@@ -10,6 +10,8 @@ permalink: /rally-day/
 ## 制作話
 しばらくお待ちください。
 
+![Rally Day / 峠 スクリーンショット](/assets/images/rally-day2.svg)
+
 ## ゲームで遊ぶ
 下記のリンクから Scratch サイトで遊んでください。  
 <a class="btn btn-primary" href="https://scratch.mit.edu/projects/269844953/" target="_blank" rel="noopener">ゲームプレイ（Scratchが開きます）</a>
