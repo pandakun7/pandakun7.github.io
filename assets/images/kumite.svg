@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 800 500">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #5e4444;
+      }
+
+      .st1 {
+        stroke-width: 54px;
+      }
+
+      .st1, .st2, .st3 {
+        stroke: #e7211a;
+      }
+
+      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .st2 {
+        stroke-width: 30px;
+      }
+
+      .st3, .st12 {
+        stroke-width: 26px;
+      }
+
+      .st13 {
+        fill: #4f2424;
+      }
+
+      .st14 {
+        fill: #ab7865;
+      }
+
+      .st4 {
+        stroke: #9e9e9e;
+      }
+
+      .st4, .st8, .st10 {
+        stroke-width: 18px;
+      }
+
+      .st15 {
+        fill: #040000;
+      }
+
+      .st5 {
+        stroke: #040000;
+        stroke-width: 19px;
+      }
+
+      .st16 {
+        fill: url(#_名称未設定グラデーション_6);
+      }
+
+      .st17 {
+        fill: url(#_名称未設定グラデーション_5);
+      }
+
+      .st18 {
+        fill: url(#_名称未設定グラデーション_4);
+      }
+
+      .st19 {
+        fill: url(#_名称未設定グラデーション_3);
+      }
+
+      .st20 {
+        fill: url(#_名称未設定グラデーション_2);
+      }
+
+      .st6 {
+        stroke-width: 3px;
+      }
+
+      .st6, .st7, .st11 {
+        stroke: #fff;
+      }
+
+      .st7 {
+        stroke-width: 4px;
+      }
+
+      .st8, .st9 {
+        stroke: #ff6f00;
+      }
+
+      .st9 {
+        stroke-width: 16px;
+      }
+
+      .st10 {
+        stroke: #af6329;
+      }
+
+      .st21 {
+        fill: #682929;
+      }
+
+      .st11 {
+        stroke-width: 2px;
+      }
+
+      .st22 {
+        fill: #755555;
+      }
+
+      .st23 {
+        fill: #d1947b;
+      }
+
+      .st24 {
+        fill: #a26161;
+      }
+
+      .st25 {
+        fill: url(#_名称未設定グラデーション);
+      }
+
+      .st12 {
+        stroke: #000;
+      }
+
+      .st26 {
+        fill: #eb5757;
+      }
+    </style>
+    <linearGradient id="_名称未設定グラデーション" data-name="名称未設定グラデーション" x1="308.6" y1="393.64" x2="308.6" y2="198.89" gradientTransform="translate(114.18 590.77) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#694e4e"/>
+      <stop offset="1" stop-color="#694e4e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_2" data-name="名称未設定グラデーション 2" x1="300.55" y1="213.02" x2="300.55" y2="116.27" gradientTransform="translate(114.18 590.77) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_3" data-name="名称未設定グラデーション 3" x1="82.86" y1="213.02" x2="82.86" y2="116.27" gradientTransform="translate(114.18 590.77) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_4" data-name="名称未設定グラデーション 4" x1="-134.83" y1="213.02" x2="-134.83" y2="116.27" gradientTransform="translate(114.18 590.77) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_5" data-name="名称未設定グラデーション 5" x1="518.24" y1="213.02" x2="518.24" y2="116.27" gradientTransform="translate(114.18 590.77) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_6" data-name="名称未設定グラデーション 6" x1="735.93" y1="213.02" x2="735.93" y2="116.27" gradientTransform="translate(114.18 590.77) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path class="st26" d="M-26.69,519.87V-103h882.84v622.87H-26.69Z"/>
+  <path class="st24" d="M-26.69,517.45V189.67h882.84v327.78H-26.69Z"/>
+  <path class="st21" d="M-20.64,196.97v-93.16L850.1,2.22v194.75H-20.64Z"/>
+  <path class="st25" d="M858.16,197.13v194.75L-12.59,290.3v-93.16h870.75Z"/>
+  <path class="st20" d="M392.96,474.5v-96.75h43.54v96.75h-43.54Z"/>
+  <path class="st19" d="M175.27,474.5v-96.75h43.54v96.75h-43.54,0Z"/>
+  <path class="st18" d="M-42.41,474.5v-96.75H1.12v96.75h-43.54.01Z"/>
+  <path class="st17" d="M610.65,474.5v-96.75h43.54v96.75h-43.54Z"/>
+  <path class="st16" d="M828.34,474.5v-96.75h43.54v96.75h-43.54Z"/>
+  <path class="st13" d="M392.96,385V-45.53h43.54v430.54h-43.54Z"/>
+  <path class="st13" d="M175.27,385V-45.53h43.54v430.54h-43.54,0Z"/>
+  <path class="st13" d="M-42.41,385V-45.53H1.12v430.54h-43.54.01Z"/>
+  <path class="st13" d="M610.65,385V-45.53h43.54v430.54h-43.54Z"/>
+  <path class="st13" d="M828.34,385V-45.53h43.54v430.54h-43.54Z"/>
+  <path class="st13" d="M-155.81-11.67v-212.85H991.73V-11.67H-155.81Z"/>
+  <path class="st0" d="M-36.08,916.66V361.71h115.5v554.95H-36.08Z"/>
+  <path class="st22" d="M-12.07,916.66V392.96h886.31v523.7H-12.07Z"/>
+  <path class="st14" d="M-8.85,392.96l128.87-59.28h625.18l128.87,59.28H-8.85Z"/>
+  <path class="st23" d="M520.32,392.96h-208.93l32.22-59.28h144.5l32.22,59.28h-.01Z"/>
+  <path class="st0" d="M311.39,916.66V392.96h208.93v523.7h-208.93Z"/>
+  <path class="st23" d="M23.37,333.68h128.39l-48.33,59.28H-12.07l-24-31.9,59.44-27.39h0Z"/>
+  <path class="st0" d="M-12.07,916.66V392.96h115.5v523.7H-12.07Z"/>
+  <path class="st0" d="M758.57,916.66V361.71h115.5v554.95h-115.5Z"/>
+  <path class="st23" d="M874.24,361.07l-24,31.9h-115.66l-48.33-59.28h128.39l59.6,27.39h0Z"/>
+  <path class="st0" d="M735.05,916.66V392.96h115.5v523.7h-115.5Z"/>
+  <path class="st0" d="M41.44,385.05l-4.62-12.84,9.83,5.29,5.96-11.33,3.73,10.57,9.54-8.61-.6,9.37,11.92-3.02-5.96,11.33"/>
+  <path class="st0" d="M95.86,341.7l-3.73-10.38,7.95,4.28,4.82-9.16,3.01,8.55,7.71-6.96-.48,7.57,9.64-2.44-4.82,9.16"/>
+  <path class="st0" d="M358.78,367.33l-4.62-12.84,9.83,5.29,5.96-11.33,3.73,10.57,9.54-8.61-.6,9.37,11.92-3.02-5.96,11.33"/>
+  <path class="st0" d="M450.25,373.92l-3.73-10.38,7.95,4.28,4.82-9.16,3.01,8.55,7.71-6.96-.48,7.57,9.64-2.44-4.82,9.16"/>
+  <path class="st0" d="M742.17,381.83l-4.62-12.84,9.83,5.29,5.96-11.33,3.73,10.57,9.54-8.61-.6,9.37,11.92-3.02-5.96,11.33"/>
+  <path class="st0" d="M790.15,354.59l-3.73-10.38,7.95,4.28,4.82-9.16,3.01,8.55,7.71-6.96-.48,7.57,9.64-2.44-4.82,9.16"/>
+  <path class="st0" d="M193.71,403.79l-29-10.74,61.75-7.52,42.96,8.59-16.91,9.19-58.8.48h0Z"/>
+  <path class="st0" d="M653.86,402.98l-21.19-10.74,45.13-7.52,31.39,8.59-12.36,9.19-42.97.48h0Z"/>
+  <path class="st9" d="M291.24,278.65l-10.99,5.43-5.64-16.28"/>
+  <path class="st12" d="M344.25,303.43l-19.97-15.68-26.87,11.82-13.29-37.49"/>
+  <path class="st12" d="M288.52,348.52l2.31-21.03,6.31-23.35"/>
+  <path d="M269.21,243.38c0-11.88,9.63-21.51,21.51-21.51s21.51,9.63,21.51,21.51-9.63,21.51-21.51,21.51-21.51-9.63-21.51-21.51h0Z"/>
+  <path class="st8" d="M322.41,254.53l-9.42,14.46-12.43-8.27"/>
+  <path class="st6" d="M299.7,253.98l6.93,3.6"/>
+  <path class="st6" d="M284.51,230.52l-6.76,6.76"/>
+  <path class="st3" d="M527.69,255.1l-21.08-15.45-.85-25.99"/>
+  <path class="st2" d="M530.47,344.64l.32-18.53,33.17-2.96,47.21-.43,16.75,19.33"/>
+  <path class="st1" d="M558.2,280.52l5.62,20.46"/>
+  <path class="st5" d="M592.97,312.38l-59.12,11.92"/>
+  <path class="st5" d="M567.2,335.58l-3.38-12.89"/>
+  <path class="st15" d="M529.67,279.11c-14.18,0-25.61-11.44-25.61-25.61s11.44-25.61,25.61-25.61,25.61,11.44,25.61,25.61-11.44,25.61-25.61,25.61Z"/>
+  <path class="st3" d="M544,293.76l-15.79,20.46-32.22-13.53"/>
+  <path class="st6" d="M585.42,297.87l-8.54-30.08"/>
+  <path class="st7" d="M536.37,236.32l6.76,6.76"/>
+  <path class="st10" d="M428.92,257.25l.06,13.73-16.81-3.94"/>
+  <path class="st4" d="M431.96,332.9v-22.43l-17.33-19.38v-34.13"/>
+  <path class="st4" d="M392.95,332.41l1.64-16.09,19.82-21.94"/>
+  <path d="M398.6,232.7c0-10.37,8.4-18.77,18.77-18.77s18.77,8.4,18.77,18.77-8.41,18.77-18.77,18.77-18.77-8.4-18.77-18.77Z"/>
+  <path class="st11" d="M400.64,258.26v21.84"/>
+  <path class="st10" d="M422.21,274.39l-16.58,4.39v-19.99"/>
+  <path class="st6" d="M412.38,219.75l-6.76,6.76"/>
+  <path class="st6" d="M400.38,258.55v15.16"/>
+  <ellipse cx="311.79" cy="360.82" rx="42.37" ry="7.26"/>
+  <ellipse cx="579.06" cy="360.9" rx="62.34" ry="5.7"/>
+  <ellipse cx="412.94" cy="343.11" rx="27.68" ry="2.61"/>
+</svg>
