@@ -9,64 +9,19 @@ layout: home
 
 ## Scratchプロジェクト集
 
-- [KENDO / 剣道](/kendo/)
-- [HANAFUDA / 花札](/hanafuda/)
-- [KUMITE / 組手](/kumite/)
-- [BlackJack / ブラックジャック](/blackjack/)
-- [Lightning / 空戦](/lightning/)
-- [Submarine / 潜水艦](/submarine/)
-- [TANK / 戦車戦](/tank/)
-- [Kung Fu Soccer / カンフーサッカー](/kung-fu-soccer/)
-- [Ninja Climb / 忍者さん](/ninja-climb/)
-- [BOXING / ボクシング](/boxing-2/)
-- [Block Ball / ブロックボール](/block-ball/)
-- [SameGame](/samegame/)
-- [Phantom / ファントム](/phantom/)
-- [Air Hockey / エアホッケー](/air-hockey/)
-- [Fencing / フェンシング](/fencing/)
-- [POKER / ポーカー](/poker/)
-- [Desert Run / 砂漠レース](/desert-run/)
-- [Flying ship / 空船](/flying-ship/)
-- [Depth charge / 対潜戦](/depth-charge/)
-- [Mushroom Valley / きのこの谷](/mushroom-valley/)
-- [Rally Day / 峠](/rally-day/)
-- [Motobike / チャリダー](/motobike/)
-- [リンゴはどこ？ / Where is the apple?](/where-is-the-apple/)
-- [100m走 / 100m Sprint](/100m-sprint/)
-- [ねこざむらい / Samurai Cat](/samurai-cat/)
-- [玉入れ / Sports Day](/sports-day/)
-- [マジックキャット / Magi Cat](/magi-cat/)
-- [スマッシュディスク / Smash Disc](/smash-disc/)
-- [サッカー / Soccer](/soccer/)
-- [戦闘機 / Fighter remix](/fighter-remix/)
-- [ボクシング / Boxing](/boxing/)
-- [ダーツ / Darts](/darts/)
-- [ゾンビース / ZOMBIES](/zombies/)
-- [フォーリングボール / Falling Balls](/falling-balls/)
-- [バルーンサッカー / Balloon Football](/balloon-football/)
-- [対決 / VERSUS](/versus/)
-- [水きり / Skipping stones](/skipping-stones/)
-- [くつ飛ばし / Flying shoes](/flying-shoes/)
-- [海戦 / Warship](/warship/)
-- [ジャングルリバー / Jungle River](/jungle-river/)
-- [フライングエース / Flying Ace](/flying-ace/)
-- [道場マスター / Dojo Master](/dojo-master/)
-- [空戦 / Airplane Aerobatics](/airplane-aerobatics/)
-- [タクシー / TAXI](/taxi/)
-- [スターファイター / STAR FIGHTER](/star-fighter/)
-- [アイスゴルフ / ICE GOLF](/ice-golf/)
-- [高速道路 / Freeway](/freeway/)
-- [マーブルフォール / Marble Falls](/marble-falls/)
-- [クレー射撃 / Clay shooting](/clay-shooting/)
-- [ドライブ / Drivin’](/drivin/)
-- [ビリヤード / Billiards](/billiards/)
-- [コイン落とし / Coin Dozer](/coin-dozer/)
-- [アーチェリー / ARCHERY](/archery/)
-- [タイニーサーカス / TINY CIRCUS](/tiny-circus/)
-- [卓球 / Table Tennis](/table-tennis/)
-- [ねこの回転寿司 / Cat's Conveyor belt sushi](/cats-conveyor-belt-sushi/)
-- [アイスホッケー / Ice Hockey](/ice-hockey/)
-- [スーパージャンピングキャット / Super Jumping Cat](/super-jumping-cat/)
-- [ビーチバレー / Beach Volleyball](/beach-volleyball/)
-- [紙飛行機 / Paper Plane](/paper-plane/)
-- [タイニーミサイルコマンド / Tiny Missile Command](/tiny-missile-command/)
+{% assign works = site.data.works | sort: "date" | reverse %}
+<div class="works-grid">
+  {% for w in works %}
+    <article class="work-card">
+      <a href="/{{ w.permalink }}/">
+        <div class="work-thumb">
+          <img src="{{ w.image | relative_url }}" alt="{{ w.title }}">
+        </div>
+        <div class="work-body">
+          <p class="work-meta">{{ w.date | date: "%Y-%m-%d" }} ・ {{ w.category }}</p>
+          <h3 class="work-title">{{ w.title }}</h3>
+        </div>
+      </a>
+    </article>
+  {% endfor %}
+</div>
