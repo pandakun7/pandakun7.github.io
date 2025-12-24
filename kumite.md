@@ -17,9 +17,10 @@ permalink: /kumite/
 <a class="btn btn-primary" href="https://scratch.mit.edu/projects/357151763/" target="_blank" rel="noopener">ゲームプレイ（Scratchが開きます）</a>
 
 ## 使用したツール
-- プログラム: Scratch 2.0
+- プログラム: Scratch 3.0
 - 画像作成: Adobe Illustrator
-- サウンド作成: Bfxr
+- サウンド作成: KORG monotribe
+- ボイス: pandakun（濁声・裏声に加工）
 
 ## スクリーンショット
 ![KUMITE / 組手 スクリーンショット1](/assets/images/noimage.png)
