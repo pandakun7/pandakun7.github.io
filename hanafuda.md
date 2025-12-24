@@ -22,7 +22,7 @@ pandakunは日本の文化をゲームにして、全国に広めるという野
 ## 使用したツール
 - プログラム: Scratch 3.0
 - 画像作成: Adobe Illustrator
-- サウンド作成: Bfxr
+- サウンド作成: 琴
 
 ## スクリーンショット
 ![HANAFUDA / 花札 スクリーンショット1](/assets/images/noimage.png)
