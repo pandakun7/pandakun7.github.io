@@ -23,6 +23,22 @@ body {
   font-family: "Noto Sans JP", "Helvetica Neue", Arial, sans-serif;
 }
 
+/* Snow layer */
+.snow-canvas {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.65;
+}
+
+.site-header,
+.page-content,
+.site-footer {
+  position: relative;
+  z-index: 1;
+}
+
 a {
   color: $brand-accent;
 }
